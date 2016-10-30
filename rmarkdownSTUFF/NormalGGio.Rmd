@@ -1,6 +1,6 @@
 ---
 title: "Normal Area"
-date: 'Last compiled: `r format(Sys.time(), "%b %d, %Y")`'
+date: 'Last compiled: `r format(Sys.time(), "%A, %B %d, %Y - %X.")`'
 author: 'Alan T. Arnholt'
 output: 
     bookdown::html_document2
